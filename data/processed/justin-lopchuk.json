@@ -1,0 +1,190 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/justin-lopchuk",
+  "last_updated": "2025-10-21T16:37:15.210500",
+  "researcher_id": "17775",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Drug Discovery",
+  "research_program": "Molecular Medicine Program",
+  "overview": "1) The acceleration of drug discovery through development of new methods in organic synthesis. 2) The practical and scalable synthesis of bioactive natural products as leads in medicinal chemistry. 3) The creation of new methods and reagents for the covalent targeting of proteins with small molecules.",
+  "research_interests": [
+    "Our research program is grounded in synthetic organic chemistry with a specific focus on the development of new reactions, the design of new reagents, and the total synthesis of natural products with anti-cancer activity. In collaboration with other research groups at Moffitt, we will apply our chemistry to synthesize chemical probes designed to interrogate the function of key oncoproteins and immune-regulatory proteins, while ultimately seeking to develop these probes and lead compounds into novel anti-cancer drugs. Methodology. In our ongoing quest to facilitate the rapid synthesis of bioactive molecules, we aim to develop new reactions and easy-to-use reagents centered around the deliberate use of radicals and other reactive intermediates for C\u2013C, C\u2013N, and C\u2013S bond formation. Each method is designed to enable the construction of small building blocks, the modification of natural products, and the late-stage functionalization of complex molecules. Toward our goal of exploring underutilized chemical space, we will focus our attention on designing reagents which allow for the simple installation of a variety of bioisosteres. Total Synthesis. For some anti-cancer natural products, total synthesis remains the best strategy for obtaining sufficient amounts of compounds for a thorough biological evaluation, let alone the prospect of clinical trials. After carefully selecting our targets, our lab will focus on developing routes which are short, scalable, and designed to deliver multigram quantities of material for biological study, as well as the ability to synthesize libraries of analogs. Drug Discovery. Moffitt\u2019s highly collaborative environment allows us to regularly engage with numerous biologists, chemists, and clinicians in both the Department of Drug Discovery and the Chemical Biology and Molecular Medicine Program. Here we will incorporate our new methodologies in fragment-based drug discovery, the design of chemical probes, and the chemoselective modification or tagging of bioactive molecules. The newly developed reagents and methods for installation of bioisosteres will be available for collaborators and their own lead compounds.\n  *"
+  ],
+  "associations": [
+    "Drug Discovery",
+    "Head and Neck-Endocrine Oncology",
+    "Molecular Medicine Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Dartmouth College, PhD"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "The Scripps Research Institute",
+      "specialty": "Chemistry"
+    }
+  ],
+  "publications": [
+    {
+      "title": "PROTAC-Mediated Degradation of TAF1 Induces Apoptosis in AML Cells and Inhibits Tumor Growth In Vivo",
+      "pubmed_id": "40376796",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Chen L, Shultz ZP, Sansone M, Fang B, Liu X, Teng M, Schonbrunn E, Lopchuk JM, Chen J",
+      "journal": "Mol Cancer Ther"
+    },
+    {
+      "title": "Divergent synthesis of complex withanolides enabled by a scalable route and late-stage functionalization",
+      "pubmed_id": "38941454",
+      "pmc_id": "PMC11212736",
+      "year": "2024",
+      "publication_date": "2024 Jun",
+      "authors": "Che W, Wojitas L, Shan C, Lopchuk JM",
+      "journal": "Sci Adv"
+    },
+    {
+      "title": "Regioselective hydroamination of unactivated olefins with diazirines as a diversifiable nitrogen source",
+      "pubmed_id": "39025859",
+      "pmc_id": "PMC11258257",
+      "year": "2024",
+      "publication_date": "2024 Jul",
+      "authors": "Xing Q, Chandrachud PP, Tillett K, Lopchuk JM",
+      "journal": "Nat Commun"
+    },
+    {
+      "title": "Asymmetric synthesis of sulfoximines, sulfonimidoyl fluorides and sulfonimidamides enabled by an enantiopure bifunctional S(VI) reagent",
+      "pubmed_id": "38238465",
+      "year": "2024",
+      "publication_date": "2024 Feb",
+      "authors": "Teng S, Shultz ZP, Shan C, Wojtas L, Lopchuk JM",
+      "journal": "Nat Chem"
+    },
+    {
+      "title": "Strain-release driven reactivity of a chiral SuFEx reagent provides stereocontrolled access to sulfinamides, sulfonimidamides, and sulfoximines",
+      "pubmed_id": "39143047",
+      "pmc_id": "PMC11324897",
+      "year": "2024",
+      "publication_date": "2024 Aug",
+      "authors": "Athawale PR, Shultz ZP, Saputo A, Hall YD, Lopchuk JM",
+      "journal": "Nat Commun"
+    },
+    {
+      "title": "Discovery of Dual TAF1-ATR Inhibitors and Ligand-Induced Structural Changes of the TAF1 Tandem Bromodomain",
+      "pubmed_id": "35191694",
+      "year": "2022",
+      "publication_date": "2022 Mar",
+      "authors": "Karim RM, Yang L, Chen L, Bikowitz MJ, Lu J, Grassie D, Shultz ZP, Lopchuk JM, Chen J, Sch\u00f6nbrunn E",
+      "journal": "J Med Chem"
+    },
+    {
+      "title": "Stereospecific \u03b1-(hetero)arylation of sulfoximines and sulfonimidamides",
+      "pubmed_id": "35415722",
+      "pmc_id": "PMC8994872",
+      "year": "2022",
+      "publication_date": "2022 Feb",
+      "authors": "Shultz ZP, Scattolin T, Wojtas L, Lopchuk JM",
+      "journal": "Nat Synth"
+    },
+    {
+      "title": "Photodecarboxylative Amination of Redox-Active Esters with Diazirines",
+      "pubmed_id": "34747619",
+      "year": "2021",
+      "publication_date": "2021 Nov",
+      "authors": "Maharaj V, Chandrachud PP, Che W, Wojtas L, Lopchuk JM",
+      "journal": "Org Lett"
+    },
+    {
+      "title": "Decarboxylative Amination: Diazirines as Single and Double Electrophilic Nitrogen Transfer Reagents",
+      "pubmed_id": "33332115",
+      "year": "2020",
+      "publication_date": "2020 Dec",
+      "authors": "Chandrachud PP, Wojtas L, Lopchuk JM",
+      "journal": "J Am Chem Soc"
+    },
+    {
+      "title": "Strain-Release Heteroatom Functionalization: Development, Scope, and Stereospecificity",
+      "pubmed_id": "28140573",
+      "pmc_id": "PMC5334783",
+      "year": "2017",
+      "publication_date": "2017 Mar",
+      "authors": "Lopchuk JM, Fjelbye K, Kawamata Y, Malins LR, Pan CM, Gianatassio R, Wang J, Prieto L, Bradow J, Brandt TA, Collins MR, Elleraas J, Ewanicki J, Farrell W, Fadeyi OO, Gallego GM, Mousseau JJ, Oliver R, Sach NW, Smith JK, Spangler JE, Zhu H, Zhu J, Baran PS",
+      "journal": "J Am Chem Soc"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: New Reagents for C-C and C-N Bond Formation  \nAward Number: 5R35GM142577-03  \nSponsor: National Institute of General Medical Sciences (NIGMS)  \nLopchuk, J. (PD/PI)",
+      "title": "New Reagents for C-C and C-N Bond Formation",
+      "award_number": "5R35GM142577-03",
+      "sponsor": "National Institute of General Medical Sciences (NIGMS)",
+      "investigators": [
+        {
+          "name": "Lopchuk, J.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Diazirines and diaziridines as nitrogen transfer reagents  \nAward Number: 2301063  \nSponsor: National Science Foundation (NSF)  \nLopchuk, J. (PD/PI)",
+      "title": "Diazirines and diaziridines as nitrogen transfer reagents",
+      "award_number": "2301063",
+      "sponsor": "National Science Foundation (NSF)",
+      "source": "NSF",
+      "investigators": [
+        {
+          "name": "Lopchuk, J.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Selective Targeting of TAF1 Function in Acute Myeloid Leukemia  \nAward Number: 1R01CA279378-01A1  \nSponsor: National Cancer Institute (NCI)  \nChen, J. (PD/PI), Lopchuk, J. (PD/PI), Schonbrunn, E. (PD/PI)",
+      "title": "Selective Targeting of TAF1 Function in Acute Myeloid Leukemia",
+      "award_number": "1R01CA279378-01A1",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Chen, J.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Lopchuk, J.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Schonbrunn, E.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Development of bifunctional CDK2 inhibitors for treatment of CCNE1-driven cancers  \nAward Number: 1R21CA288927-01  \nSponsor: National Cancer Institute (NCI)  \nLopchuk, J. (PD/PI), Schonbrunn, E. (PD/PI)",
+      "title": "Development of bifunctional CDK2 inhibitors for treatment of CCNE1-driven cancers",
+      "award_number": "1R21CA288927-01",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Lopchuk, J.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Schonbrunn, E.",
+          "role": "PD/PI"
+        }
+      ]
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/LopchukJustin_17775.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=17775"
+  },
+  "content_hash": "99786d3414583c229120dfc891a6100a89e4962623f8dc4d7432e273723d2253",
+  "researcher_name": "Justin Lopchuk",
+  "department": "Drug Discovery"
+}

@@ -1,0 +1,244 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/florian-karreth",
+  "last_updated": "2025-10-21T16:34:53.824637",
+  "researcher_id": "17021",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Molecular Oncology",
+  "research_program": "Cancer Biology & Evolution Program",
+  "overview": "My lab is interested in the intersection of oncogenic signaling pathways and non-coding RNAs in the initiation, progression, and resistance of cancers driven by the MAPK pathway, with an emphasis on melanoma. We study how secondary genetic events enhance or cooperate with the MAPK pathway to promote the oncogenic evolution of melanoma. Such secondary events may represent targetable vulnerabilities that could be therapeutically explored in combination with current standard-of-care targeted therapy or immunotherapy.",
+  "research_interests": [
+    "My lab is interested in the intersection of oncogenic signaling pathways and non-coding RNAs in the initiation, progression, and resistance of cancers driven by the MAPK pathway, with an emphasis on melanoma. We study how secondary genetic events enhance or cooperate with the MAPK pathway to promote the oncogenic evolution of melanoma. Such secondary events may represent targetable vulnerabilities that could be therapeutically explored in combination with current standard-of-care targeted therapy or immunotherapy.\n  *"
+  ],
+  "associations": [
+    "Molecular Oncology",
+    "Cutaneous Oncology",
+    "Cancer Biology & Evolution Program",
+    "Melanoma & Skin Cancer Center of Excellence"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "University of Vienna, MS"
+    },
+    {
+      "type": "Graduate",
+      "institution": "University of Vienna, PhD"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Beth Israel Deaconess Medical Center",
+      "specialty": ""
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Weill Cornell Medical College",
+      "specialty": ""
+    }
+  ],
+  "publications": [
+    {
+      "title": "A multi-step immune-competent genetic mouse model reveals phenotypic plasticity in uveal melanoma",
+      "pubmed_id": "40502063",
+      "pmc_id": "PMC12157397",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Xu X, Liu X, Dollar JJ, Liu X, Jasani N, Posorske B, Sriramareddy SN, Jarajapu V, Kuznetsoff JN, Sinard J, Bennett RL, Licht JD, Smalley KSM, Harbour JW, Yu X, Karreth FA",
+      "journal": "bioRxiv"
+    },
+    {
+      "title": "FRA1 drives melanoma metastasis through an actionable transcriptional network",
+      "pubmed_id": "40661443",
+      "pmc_id": "PMC12258986",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Xu X, Chadourne M, Soto-Vargas Z, Jarajapu V, Yao J, Yu X, Karreth FA",
+      "journal": "bioRxiv"
+    },
+    {
+      "title": "PHGDH Induction by MAPK Is Essential for Melanoma Formation and Creates an Actionable Metabolic Vulnerability",
+      "pubmed_id": "39495254",
+      "pmc_id": "PMC11735329",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Jasani N, Xu X, Posorske B, Kim Y, Wang K, Vera O, Tsai KY, DeNicola GM, Karreth FA",
+      "journal": "Cancer Res"
+    },
+    {
+      "title": "Interactions between Ploidy and Resource Availability Shape Clonal Evolution in Glioblastoma",
+      "pubmed_id": "39933186",
+      "year": "2025",
+      "publication_date": "2025 Apr",
+      "authors": "Nowicka Z, Rentzeperis F, Tagal V, Teer JK, Ilter D, Beck RJ, Cole JP, Forero Pinto AM, Tejero JD, Scanu E, Veith T, Dominguez-Viqueira W, Maksin K, Carrillo-Perez FM, Gevaert O, Xu X, Karreth FA, Abdalah MA, Fiandaca G, Pasetto S, Prabhakaran S, Schultz A, Ojwang' AME, Barnholtz-Sloan JS, Farinhas JM, Gomes AP, Katira P, Andor N",
+      "journal": "Cancer Res"
+    },
+    {
+      "title": "The small MAF transcription factor MAFG co-opts MITF to promote melanoma progression",
+      "pubmed_id": "39282450",
+      "pmc_id": "PMC11398417",
+      "year": "2024",
+      "publication_date": "2024 Sep",
+      "authors": "Vera O, Martinez M, Soto-Vargas Z, Wang K, Xu X, Ruiz-Buceta S, Mecozzi N, Chadourne M, Posorske B, Angarita A, Bok I, Liu Q, Murikipudi H, Kim Y, Messina JL, Tsai KY, Major MB, Lau EK, Yu X, Ibanez-de-Caceres I, Karreth FA",
+      "journal": "bioRxiv"
+    },
+    {
+      "title": "PTEN Lipid Phosphatase Activity Suppresses Melanoma Formation by Opposing an AKT/mTOR/FRA1 Signaling Axis",
+      "pubmed_id": "38193852",
+      "pmc_id": "PMC10842853",
+      "year": "2024",
+      "publication_date": "2024 Feb",
+      "authors": "Xu X, Bok I, Jasani N, Wang K, Chadourne M, Mecozzi N, Deng O, Welsh EA, Kinose F, Rix U, Karreth FA",
+      "journal": "Cancer Res"
+    },
+    {
+      "title": "CDH3-AS1 antisense RNA enhances P-cadherin translation and acts as a tumor suppressor in melanoma",
+      "pubmed_id": "39764055",
+      "pmc_id": "PMC11703152",
+      "year": "2024",
+      "publication_date": "2024 Dec",
+      "authors": "Chadourne M, Griffith C, Xu X, Brennan E, Vera O, Mecozzi N, Wang K, Jaeger AM, Karreth FA",
+      "journal": "bioRxiv"
+    },
+    {
+      "title": "MAPK-mediated PHGDH induction is essential for melanoma formation and represents an actionable vulnerability",
+      "pubmed_id": "38659816",
+      "pmc_id": "PMC11042198",
+      "year": "2024",
+      "publication_date": "2024 Apr",
+      "authors": "Jasani N, Xu X, Posorske B, Kim Y, Vera O, Tsai KY, DeNicola GM, Karreth FA",
+      "journal": "bioRxiv"
+    },
+    {
+      "title": "Distinct Nrf2 Signaling Thresholds Mediate Lung Tumor Initiation and Progression",
+      "pubmed_id": "37062029",
+      "pmc_id": "PMC10267679",
+      "year": "2023",
+      "publication_date": "2023 Jun",
+      "authors": "DeBlasi JM, Falzone A, Caldwell S, Prieto-Farigua N, Prigge JR, Schmidt EE, Chio IIC, Karreth FA, DeNicola GM",
+      "journal": "Cancer Res"
+    },
+    {
+      "title": "Genetically engineered mouse models of head and neck cancers",
+      "pubmed_id": "37474617",
+      "pmc_id": "PMC10457205",
+      "year": "2023",
+      "publication_date": "2023 Aug",
+      "authors": "Tasoulas J, Srivastava S, Xu X, Tarasova V, Maniakas A, Karreth FA, Amelio AL",
+      "journal": "Oncogene"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Exploring anti-sense RNAs in melanocyte transformation and melanoma formation  \nAward Number: 1R21CA303007-01  \nSponsor: National Cancer Institute (NCI)  \nKarreth, F. (PD/PI)",
+      "title": "Exploring anti-sense RNAs in melanocyte transformation and melanoma formation",
+      "award_number": "1R21CA303007-01",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Karreth, F.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Chromosome 1q ceRNAs in melanoma progression and metastasis  \nAward Number: 5R01CA259046-03  \nSponsor: National Cancer Institute (NCI)  \nKarreth, F. (PD/PI)",
+      "title": "Chromosome 1q ceRNAs in melanoma progression and metastasis",
+      "award_number": "5R01CA259046-03",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Karreth, F.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Targeting a PHGDH Metabolic Vulnerability in Melanoma  \nAward Number: 1R21CA289213-01  \nSponsor: National Cancer Institute (NCI)  \nKarreth, F. (PD/PI)",
+      "title": "Targeting a PHGDH Metabolic Vulnerability in Melanoma",
+      "award_number": "1R21CA289213-01",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Karreth, F.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Defining the glyco-RNAome in melanoma progression  \nAward Number: HT9425-23-1-0513 Log #ME220138  \nSponsor: Department of Defense (DOD)  \nKarreth, F. (PD/PI)",
+      "title": "Defining the glyco-RNAome in melanoma progression",
+      "award_number": "HT9425-23-1-0513 Log #ME220138",
+      "sponsor": "Department of Defense (DOD)",
+      "source": "DOD",
+      "investigators": [
+        {
+          "name": "Karreth, F.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Novel genetic mouse models of uveal melanoma progression and metastasis  \nAward Number: HT94252410402 Log: ME230182  \nSponsor: Department of Defense (DOD)  \nKarreth, F. (PD/PI)",
+      "title": "Novel genetic mouse models of uveal melanoma progression and metastasis",
+      "award_number": "HT94252410402 Log: ME230182",
+      "sponsor": "Department of Defense (DOD)",
+      "source": "DOD",
+      "investigators": [
+        {
+          "name": "Karreth, F.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Defining the non-canonical functions of MYBL2 in melanoma progression  \nAward Number: 24B08  \nSponsor: Florida Department of Health  \nKarreth, F. (PD/PI)",
+      "title": "Defining the non-canonical functions of MYBL2 in melanoma progression",
+      "award_number": "24B08",
+      "sponsor": "Florida Department of Health",
+      "investigators": [
+        {
+          "name": "Karreth, F.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Elucidating the Oncogenic Role of sMAF Proteins in Melanoma  \nAward Number: RSG-21-087-01-DMC  \nSponsor: American Cancer Society, Inc. (ACS)  \nKarreth, F. (PD/PI)",
+      "title": "Elucidating the Oncogenic Role of sMAF Proteins in Melanoma",
+      "award_number": "RSG-21-087-01-DMC",
+      "sponsor": "American Cancer Society, Inc. (ACS)",
+      "source": "American Cancer Society",
+      "investigators": [
+        {
+          "name": "Karreth, F.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Elucidating the oncogenic role of sMAF proteins in melanoma (supplement)  \nAward Number: RSG-21-087-01-DMC  \nSponsor: American Cancer Society, Inc. (ACS)  \nKarreth, F. (PD/PI)",
+      "title": "Elucidating the oncogenic role of sMAF proteins in melanoma (supplement)",
+      "award_number": "RSG-21-087-01-DMC",
+      "sponsor": "American Cancer Society, Inc. (ACS)",
+      "source": "American Cancer Society",
+      "investigators": [
+        {
+          "name": "Karreth, F.",
+          "role": "PD/PI"
+        }
+      ]
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/KarrethFlorian_17021.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=17021"
+  },
+  "content_hash": "ea875eaff5b3f7fd98539bda4c5b3f3f11fc567b3d6a4fb348c42b40b7e408f2",
+  "researcher_name": "Florian Karreth",
+  "department": "Molecular Oncology"
+}

@@ -1,0 +1,332 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/john-cleveland",
+  "last_updated": "2025-10-21T16:35:11.142315",
+  "researcher_id": "14386",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "Director",
+  "primary_program": "Tumor Microenvironment and Metastasis",
+  "research_program": "Cancer Biology & Evolution Program",
+  "overview": "Dr. Cleveland\u2019s research has been broadly focused on the molecular pathogenesis of cancer, where he has been a leader in interrogating the regulation and role of oncogenes and tumor suppressors in controlling cancer cell growth and survival, and in defining new targets that play essential roles in the development and maintenance of cancer.",
+  "research_interests": [
+    "Dr. John Cleveland was trained at the National Cancer Institute under the direction of Dr. Ulf R. Rapp (who discovered Raf family oncogenes) and began his career as an Assistant Professor in the Department of Biochemistry of St. Jude Children\u2019s Research Hospital in 1989. He became a Full Professor in 2000 and was also Program Leader of the Signal Transduction Program. In November of 2006 he was recruited to become founding Chair of the Department of Cancer Biology at The Scripps Research Institute. He joined the Moffitt Cancer Center on July 1 as Associate Center Director of Basic Science, where he holds the Cortner Couch Endowed Chair and the academic appointment of Senior Member and Professor in the Department of Tumor Biology. Dr. Cleveland\u2019s research has been broadly focused on the molecular pathogenesis of cancer, where he has been a leader in interrogating the regulation and role of oncogenes and tumor suppressors in controlling cancer cell growth and survival, and in defining new targets that play essential roles in the development and maintenance of cancer. In line with the mission of Moffitt, all his lab\u2019s is dedicated towards developing new agents and strategies for the prevention and treatment of cancer. Dr. Cleveland has been continuously funded through NIH R01 grants since 1991. Dr. Cleveland has been and continues to be an invited lecturer at many Institutes and at several national and international scientific meetings. Over the years, Dr. Cleveland has supervised more than 35 postdoctoral researchers and graduate students, and over 24 of these have gone on to establish independent and successful careers in academia, or in the biotechnology and pharmaceutical industry sectors. Dr. Cleveland has published over 150 peer-reviewed articles and 40 book chapters and review articles in the cancer research field. Several of these have been published in top-tier scientific journals, including Cell, Molecular Cell, Cancer Cell, Nature, Nature Medicine, Genes & Development, Proceedings of the National Academy of Sciences, The EMBO Journal, Molecular and Cellular Biology, Cancer Research and the Journal of Experimental Medicine. Dr. Cleveland has been a long standing Member of the American Association of Sciences, the American Society of Microbiology and of the American Association of Cancer Research. Dr. Cleveland has also served as an Editor for several prestigious journals, including Molecular Biology of the Cell and Molecular and Cellular Biology, and as an Associate Editor for Cell Death and Differentiation and for Cancer Research. He also has a long history as a Reviewer for Study Sections, for both the American Cancer Society (six years) and for the National Institutes of Health (NIH, for ~20 years); including as Chair of the Parent Committee (NCI-C) that reviews Program Project Grants for the National Cancer Institute. Finally, he has also served as a Member of the Extramural Scientific Advisory Boards for The University of Arizona (for their SPORE and PPG programs), The Roswell Park Cancer Institute, The Blood Research Institute, and for the Florida Center for Brain Tumor Research at the University of Florida. At Moffitt he co-chairs the Core Leadership Committee, and serves on the Research Executive Committee, the Research Institute Steering Committee and the Scientific Leadership Committee.\n  *"
+  ],
+  "associations": [
+    "Tumor Microenvironment and Metastasis",
+    "Malignant Hematology",
+    "Cancer Biology & Evolution Program",
+    "Melanoma & Skin Cancer Center of Excellence",
+    "Center of Excellence for Evolutionary Therapy",
+    "Lung Cancer Center of Excellence"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Wayne State University School of Medicine, PhD"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Roswell Park Cancer Institute",
+      "specialty": "Health Psychology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Lymphoma accelerates T cell and tissue aging",
+      "pubmed_id": "40845845",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Hesterberg RS, Davis JT, Handoo KJ, Elmarsafawi AG, Augello AC, Cheng CH, Atkins R, Lee DH, Yang C, Yao J, Patel KR, Mediavilla-Varela M, Pinilla-Ibarz J, Soto-Palma C, Locke FL, Song X, Wang X, Berglund AE, Rodriguez PC, Knittel G, Fl\u00fcmann R, Reinhardt HC, Shaw TI, Yu X, Niedernhofer LJ, Cleveland JL",
+      "journal": "Cancer Cell"
+    },
+    {
+      "title": "Comparison of axicabtagene ciloleucel and tisagenlecleucel patient CAR-T cell products by single-cell RNA sequencing",
+      "pubmed_id": "40730421",
+      "pmc_id": "PMC12306477",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Yu X, Jain MD, Menges MA, Cen L, Noble JD, Atkins R, Mohammad TJ, Bachmeier CA, Naderinezhad S, Reid K, Corallo S, Yoder SJ, Zhang C, Zhang L, Miranda JA, Shah B, Chavez JC, Hesterberg RS, Delgado LC, Savid-Frontera C, Rodriguez PC, Cleveland JL, Wang X, Davila ML, Locke FL",
+      "journal": "J Immunother Cancer"
+    },
+    {
+      "title": "Methylmalonic acid induces metabolic abnormalities and exhaustion in CD8+ T cells to suppress anti-tumor immunity",
+      "pubmed_id": "39472497",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Tejero JD, Hesterberg RS, Drapela S, Ilter D, Raizada D, Lazure F, Kashfi H, Liu M, Silvane L, Avram D, Fern\u00e1ndez-Garc\u00eda J, Asara JM, Fendt SM, Cleveland JL, Gomes AP",
+      "journal": "Oncogene"
+    },
+    {
+      "title": "The Functional Transcriptomic Landscape Informs Therapeutic Strategies in Multiple Myeloma",
+      "pubmed_id": "39476082",
+      "pmc_id": "PMC11733535",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Sudalagunta PR, Canevarolo RR, Meads MB, Silva M, Zhao X, Cubitt CL, Sansil SS, DeAvila G, Alugubelli RR, Bishop RT, Tungesvik A, Zhang Q, Hampton O, Teer JK, Welsh EA, Yoder SJ, Shah BD, Hazlehurst L, Gatenby RA, Van Domelen DR, Chai Y, Wang F, DeCastro A, Bloomer AM, Siegel EM, Lynch CC, Sullivan DM, Alsina M, Nishihori T, Brayer J, Cleveland JL, Dalton W, Walker CJ, Landesman Y, Baz R, Silva AS, Shain KH",
+      "journal": "Cancer Res"
+    },
+    {
+      "title": "Unc-51 Like Kinase 3 (ULK3) is essential for autophagy and cell survival in multiple myeloma",
+      "pubmed_id": "40831505",
+      "pmc_id": "PMC12363935",
+      "year": "2025",
+      "publication_date": "2025 Aug",
+      "authors": "Tauro M, Li T, Sudalagunta PR, Meads M, Canevarolo RR, Nerlakanti N, Alugubelli RR, Lawrence HR, Gunawan S, Ayaz M, Nareddy P, Yun SY, Shay G, Yang K, Tran TH, Bishop RT, Nasr MM, Lawrence NNJ, Sch\u00f6nbrunn E, Cleveland JL, Silva AS, Shain KH, Lynch CC",
+      "journal": "Res Sq"
+    },
+    {
+      "title": "Epigenetic Plasticity Drives Carcinogenesis and Multi-Therapy Resistance in Multiple Myeloma",
+      "pubmed_id": "40321765",
+      "pmc_id": "PMC12048002",
+      "year": "2025",
+      "publication_date": "2025 Apr",
+      "authors": "Renatino Canevarolo R, Sudalagunta PR, Meads MB, Silva M, Zhao X, Magaletti D, Alugubelli RR, DeAvila G, Persi E, Maura F, Bell ET, Bishop RT, Cubitt CL, Sansil SS, Zhang W, Teer JK, Teng M, Yoder SJ, Siegel EM, Shah BD, Nishihori T, Hazlehurst LA, Lynch CC, Landgren O, Hampton O, Gatenby RA, Sullivan DM, Brayer JB, Dalton WS, Cleveland JL, Alsina M, Baz R, Shain KH, Silva AS",
+      "journal": "Res Sq"
+    },
+    {
+      "title": "Lung adenocarcinomas without driver genes converge to common adaptive strategies through diverse genetic, epigenetic, and niche construction evolutionary pathways",
+      "pubmed_id": "38704802",
+      "pmc_id": "PMC11070398",
+      "year": "2024",
+      "publication_date": "2024 May",
+      "authors": "Gatenby RA, Luddy KA, Teer JK, Berglund A, Freischel AR, Carr RM, Lam AE, Pienta KJ, Amend SR, Austin RH, Hammarlund EU, Cleveland JL, Tsai KY, Brown JS",
+      "journal": "Med Oncol"
+    },
+    {
+      "title": "Trisomy 8 Defines a Distinct Subtype of Myeloproliferative Neoplasms Driven by the MYC-Alarmin Axis",
+      "pubmed_id": "38713018",
+      "pmc_id": "PMC11215389",
+      "year": "2024",
+      "publication_date": "2024 Jul",
+      "authors": "Vincelette ND, Yu X, Kuykendall AT, Moon J, Su S, Cheng CH, Sammut R, Razabdouski TN, Nguyen HV, Eksioglu EA, Chan O, Al Ali N, Patel PC, Lee DH, Nakanishi S, Ferreira RB, Hyjek E, Mo Q, Cory S, Lawrence HR, Zhang L, Murphy DJ, Komrokji RS, Lee D, Kaufmann SH, Cleveland JL, Yun S",
+      "journal": "Blood Cancer Discov"
+    },
+    {
+      "title": "The Many Faces of Hypusinated eIF5A: Cell Context-Specific Effects of the Hypusine Circuit and Implications for Human Health",
+      "pubmed_id": "39125743",
+      "pmc_id": "PMC11311669",
+      "year": "2024",
+      "publication_date": "2024 Jul",
+      "authors": "Nakanishi S, Cleveland JL",
+      "journal": "Int J Mol Sci"
+    },
+    {
+      "title": "Transcriptional Plasticity Drives IMiD and p300 Inhibitor Resistance in Multiple Myeloma",
+      "pubmed_id": "38085608",
+      "pmc_id": "PMC10772544",
+      "year": "2024",
+      "publication_date": "2024 Jan",
+      "authors": "Yun S, Cleveland JL",
+      "journal": "Blood Cancer Discov"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: SOW for project management, alliance management, and Executive Sponsors in Major Alliance with Turnstone  \nAward Number:   \nSponsor: TURNSTONE BIOLOGICS CORP  \nCleveland, J. (PD/PI)",
+      "title": "SOW for project management, alliance management, and Executive Sponsors in Major Alliance with Turnstone",
+      "award_number": "",
+      "sponsor": "TURNSTONE BIOLOGICS CORP",
+      "investigators": [
+        {
+          "name": "Cleveland, J.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Moffitt Cancer Center Support Grant Years 24-27  \nAward Number: 5P30CA076292-27  \nSponsor: National Cancer Institute (NCI)  \nCleveland, J. (PD/PI)",
+      "title": "Moffitt Cancer Center Support Grant Years 24-27",
+      "award_number": "5P30CA076292-27",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Cleveland, J.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Determinants of Cancer Survivorship Among People Living with HIV (HIV/AIDS/Aging Cancer)  \nAward Number: 3P30CA076292-26S1  \nSponsor: National Cancer Institute (NCI)  \nCleveland, J. (PD/PI)",
+      "title": "Determinants of Cancer Survivorship Among People Living with HIV (HIV/AIDS/Aging Cancer)",
+      "award_number": "3P30CA076292-26S1",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Cleveland, J.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: The role of Accelerated Biological Aging in HIV control and Non-AIDS-defining Cancer Risk (Biospecimens/Biocohort)  \nAward Number: 3P30CA076292-26S2  \nSponsor: National Cancer Institute (NCI)  \nCleveland, J. (PD/PI)",
+      "title": "The role of Accelerated Biological Aging in HIV control and Non-AIDS-defining Cancer Risk (Biospecimens/Biocohort)",
+      "award_number": "3P30CA076292-26S2",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Cleveland, J.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Assessing the Efficacy of Sexual Orientation and Gender Identity (SOGI) Data Collection  \nAward Number: 3P30CA076292-24S7  \nSponsor: National Cancer Institute (NCI)  \nCleveland, J. (PD/PI)",
+      "title": "Assessing the Efficacy of Sexual Orientation and Gender Identity (SOGI) Data Collection",
+      "award_number": "3P30CA076292-24S7",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Cleveland, J.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: CCSG Developmental Project: Pilot Project for Tobacco Cessation and Machine Learning  \nAward Number: 5P30CA076292-26  \nSponsor: National Cancer Institute (NCI)  \nCleveland, J. (PD/PI), Vidrine, J. (PD/PI)",
+      "title": "CCSG Developmental Project: Pilot Project for Tobacco Cessation and Machine Learning",
+      "award_number": "5P30CA076292-26",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Cleveland, J.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Vidrine, J.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Harnessing EHR to develop a Florida-based Coalition on Cancer Care Inequities among PHIV (Social Determinants of Health and Quality of Cancer Care in HIV-associated Cancers)  \nAward Number: 3P30CA076292-25S3  \nSponsor: National Cancer Institute (NCI)  \nCleveland, J. (PD/PI)",
+      "title": "Harnessing EHR to develop a Florida-based Coalition on Cancer Care Inequities among PHIV (Social Determinants of Health and Quality of Cancer Care in HIV-associated Cancers)",
+      "award_number": "3P30CA076292-25S3",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Cleveland, J.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Deep Phenotypic Characterization of Colorectal Cancer Patients to Identify Novel Predictors of Disease Recurrence  \nAward Number: 5P30CA076292-25  \nSponsor: National Cancer Institute (NCI)  \nCleveland, J. (PD/PI), Siegel, E. (PD/PI), Kresovich, J. (Co-PD/PI), Stewart, P. (Co-PD/PI)",
+      "title": "Deep Phenotypic Characterization of Colorectal Cancer Patients to Identify Novel Predictors of Disease Recurrence",
+      "award_number": "5P30CA076292-25",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Cleveland, J.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Siegel, E.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Kresovich, J.",
+          "role": "Co-PD/PI"
+        },
+        {
+          "name": "Stewart, P.",
+          "role": "Co-PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Multimodal Federated Learning for Pan-Cancer Detection of Cachexia and Early Detection of Pancreatic Cancer  \nAward Number: 3P30CA076292-26S3  \nSponsor: National Cancer Institute (NCI)  \nCleveland, J. (PD/PI)",
+      "title": "Multimodal Federated Learning for Pan-Cancer Detection of Cachexia and Early Detection of Pancreatic Cancer",
+      "award_number": "3P30CA076292-26S3",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Cleveland, J.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: New Therapeutic Vulnerabilities for Aggressive B-Cell Lymphoma  \nAward Number: 5R01CA241713-04  \nSponsor: National Cancer Institute (NCI)  \nCleveland, J. (PD/PI)",
+      "title": "New Therapeutic Vulnerabilities for Aggressive B-Cell Lymphoma",
+      "award_number": "5R01CA241713-04",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Cleveland, J.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Targeted degradation of RNAs by using small molecules  \nAward Number: 1R01CA249180-04  \nSponsor: National Cancer Institute (NCI)  \nCleveland, J. (PD/PI)",
+      "title": "Targeted degradation of RNAs by using small molecules",
+      "award_number": "1R01CA249180-04",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Cleveland, J.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: State of FL-License Plate Funds  \nAward Number: n/a  \nSponsor: Florida Department of Highway Safety & Motor Vehicles  \nCleveland, J. (PD/PI)",
+      "title": "State of FL-License Plate Funds",
+      "award_number": "n/a",
+      "sponsor": "Florida Department of Highway Safety & Motor Vehicles",
+      "investigators": [
+        {
+          "name": "Cleveland, J.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: State of Florida Appropriation  \nAward Number: MOG21 Contract Renewal #2; Amendment #R1A3  \nSponsor: Florida Department of Health  \nCleveland, J. (PD/PI)",
+      "title": "State of Florida Appropriation",
+      "award_number": "MOG21 Contract Renewal #2; Amendment #R1A3",
+      "sponsor": "Florida Department of Health",
+      "investigators": [
+        {
+          "name": "Cleveland, J.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Applying Large Language Models to Accelerate Abstraction of Cancer Pathology Reports for Cancer Registry (LLMs for Unstructured Data Extraction)  \nAward Number: 3P30CA076292-25S4  \nSponsor: National Cancer Institute (NCI)  \nCleveland, J. (PD/PI), Thieu, T. (PD/PI)",
+      "title": "Applying Large Language Models to Accelerate Abstraction of Cancer Pathology Reports for Cancer Registry (LLMs for Unstructured Data Extraction)",
+      "award_number": "3P30CA076292-25S4",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Cleveland, J.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Thieu, T.",
+          "role": "PD/PI"
+        }
+      ]
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/ClevelandJohn_14386.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=14386"
+  },
+  "content_hash": "359ec5729c31e7795d1f259be7a9507d8fed19500a1bad8f60381185bd69dfe9",
+  "researcher_name": "John Cleveland",
+  "department": "Tumor Microenvironment and Metastasis"
+}

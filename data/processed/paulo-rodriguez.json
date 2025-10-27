@@ -1,0 +1,174 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/paulo-rodriguez",
+  "last_updated": "2025-10-21T16:39:35.703277",
+  "researcher_id": "19146",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Immunology",
+  "research_program": "Immuno-Oncology Program",
+  "overview": "The long-term goal of my research is to develop innovative strategies that restore protective immunity in cancer, leading to long lasting anti-tumor effector responses.",
+  "research_interests": [
+    "Dr. Rodriguez's research programs focus on the suppressive effects induced by tumor-infiltrating myeloid-derived suppressor cells (MDSC), a heterogeneous population of immature myeloid precursors that are primary mediators of tumor-induced anergy and a major obstacle for the development of successful cancer immunotherapies. My current research programs are summarized as following:1. To determine the role of major pathways associated with cellular stress in the tumor microenvironment as master regulators of the immune suppressive activity of MDSC. This research is based on the hypothesis that the activation of particular stress signals in MDSC drives their ability to inhibit T cell responses and modulates MDSC accumulation and survival in tumors. Therefore, therapeutic inhibition of these mediators and its major upstream regulators in tumors will reprogram MDSC function into functional anti-tumor antigen presenting cells, restore protective anti-tumor T cell responses, and increase the efficacy of various forms immunotherapy.2. To identify the importance of the inhibition of Notch1 signaling in CD8 T lymphocytes in the T cell anergy induced by MDSC in solid tumors. The Notch family of receptors mediates a highly conserved pathway that controls the function, development, and differentiation of many cell types, including immune cells. In this research project, we aim to elucidate the mechanisms whereby Notch1 activity in CD8 T cells counteracts MDSC-linked tolerance in tumors and to test the effect of triggering Notch1 signaling in T cells as a novel strategy to increase the efficacy of various forms of cancer immunotherapy. We are currently investigating several therapeutic approaches aimed at increasing Notch1 signaling in tumor-infiltrating CD8 T cells.3. To understand the role of the deprivation of the non-essential amino acid L-arginine in the suppressive function and accumulation of MDSC in tumors. The metabolism of different amino acids, including L-Arginine, by tumor-infiltrating MDSC has been shown to impair anti-tumor T cell responses. Ongoing experiments are testing the effect of the deprivation of L-Arginine and other nutrients in the function and accumulation of MDSC in tumor-bearing hosts. This strategy is expected to enable the metabolic reprogramming of MDSC in tumors, thereby resulting in significant anti-tumor effects.\n  *"
+  ],
+  "associations": [
+    "Immunology",
+    "Malignant Hematology",
+    "Immuno-Oncology Program",
+    "Melanoma & Skin Cancer Center of Excellence",
+    "Lung Cancer Center of Excellence"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "CCBB-University of Antioquia, Masters"
+    },
+    {
+      "type": "Graduate",
+      "institution": "Louisiana State University Health Sciences Center, PhD"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Stanley S. Scott Cancer Center, Louisiana State University Health Sciences Center",
+      "specialty": "Immunotherapy"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Endoplasmic reticulum stress responses in anticancer immunity",
+      "pubmed_id": "40555746",
+      "pmc_id": "PMC12486299",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Hwang SM, Chang S, Rodriguez PC, Cubillos-Ruiz JR",
+      "journal": "Nat Rev Cancer"
+    },
+    {
+      "title": "Engineering synthetic agonists for targeted activation of Notch signaling",
+      "pubmed_id": "40993428",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Perez DH, Antfolk D, Chang S, Bustos XE, Medina E, Ramadan AA, Gonzalez-Perez D, Abate-Daga D, Rodriguez PC, Luca VC",
+      "journal": "Nat Chem Biol"
+    },
+    {
+      "title": "Lymphoma accelerates T cell and tissue aging",
+      "pubmed_id": "40845845",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Hesterberg RS, Davis JT, Handoo KJ, Elmarsafawi AG, Augello AC, Cheng CH, Atkins R, Lee DH, Yang C, Yao J, Patel KR, Mediavilla-Varela M, Pinilla-Ibarz J, Soto-Palma C, Locke FL, Song X, Wang X, Berglund AE, Rodriguez PC, Knittel G, Fl\u00fcmann R, Reinhardt HC, Shaw TI, Yu X, Niedernhofer LJ, Cleveland JL",
+      "journal": "Cancer Cell"
+    },
+    {
+      "title": "Mitigating T-cell mitochondrial dysfunction in CLL to augment CAR T-cell therapy: evaluation in an immunocompetent model",
+      "pubmed_id": "39938006",
+      "pmc_id": "PMC12148389",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Gamal W, Goedhart NB, Simon-Molas H, Mediavilla-Varela M, Uriepero-Palma A, Peters FS, Maharaj K, Chavez JC, Powers JJ, Obermayer A, Shaw TI, Conejo-Garcia JR, Rodriguez PC, Sahakian E, Pinilla-Ibarz J, Kater AP",
+      "journal": "Blood Adv"
+    },
+    {
+      "title": "CAR T cell-driven induction of iNOS in tumor-associated macrophages promotes CAR T cell resistance in B cell lymphoma",
+      "pubmed_id": "40235478",
+      "pmc_id": "PMC11998770",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Davila M, Lee SB, Kang YP, Boucher J, Mandula J, Roselli E, Chang D, Jimenez R, Kotani H, Reid K, Vazquez-Martinez J, Beatty N, Goala P, Sierra-Mondragon R, Liu M, Koomen J, Nguyen J, Hussaini M, Shaw T, Wang X, Faramand R, Jain M, Locke F, Rodriguez P, Sailer C, McSain S, Hamid S, Tariq M, Wang J, Abraham-Miranda J",
+      "journal": "Res Sq"
+    },
+    {
+      "title": "Blocking Nitrosylation Induces Immunogenic Cell Death by Sensitizing NRAS-Mutant Melanoma to MEK Inhibitors",
+      "pubmed_id": "40287947",
+      "pmc_id": "PMC12167936",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Srivastava J, Yadav VK, Jimenez RV, Phadatare PR, Inamdar NA, Young MM, Bacchiocchi A, Halaban R, Fang B, Pulido AM, Tsai KY, Smalley KSM, Koomen JM, Rodriguez PC, Premi S",
+      "journal": "Cancer Res"
+    },
+    {
+      "title": "Functional Reprogramming of Neutrophils within the Brain Tumor Microenvironment by Hypoxia-Driven Histone Lactylation",
+      "pubmed_id": "40014923",
+      "pmc_id": "PMC12133432",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Ugolini A, De Leo A, Yu X, Scirocchi F, Liu X, Peixoto B, Scocozza D, Pace A, Perego M, Gardini A, D'Angelo L, Liu JKC, Etame AB, Rughetti A, Nuti M, Santoro A, Vogelbaum MA, Conejo-Garcia JR, Rodriguez PC, Veglia F",
+      "journal": "Cancer Discov"
+    },
+    {
+      "title": "Comparison of axicabtagene ciloleucel and tisagenlecleucel patient CAR-T cell products by single-cell RNA sequencing",
+      "pubmed_id": "40730421",
+      "pmc_id": "PMC12306477",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Yu X, Jain MD, Menges MA, Cen L, Noble JD, Atkins R, Mohammad TJ, Bachmeier CA, Naderinezhad S, Reid K, Corallo S, Yoder SJ, Zhang C, Zhang L, Miranda JA, Shah B, Chavez JC, Hesterberg RS, Delgado LC, Savid-Frontera C, Rodriguez PC, Cleveland JL, Wang X, Davila ML, Locke FL",
+      "journal": "J Immunother Cancer"
+    },
+    {
+      "title": "Controlling treatment toxicity in ovarian cancer to prime the patient for tumor extinction therapy",
+      "pubmed_id": "40791474",
+      "pmc_id": "PMC12338546",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Gallagher K, Sousa RS, Gatenbee C, Schenck R, Chen P, Citak T, Leither S, Mazzacurati L, Xella A, Zhou Z, Lemanne D, Rodriguez P, George E, Strobl MAR",
+      "journal": "bioRxiv"
+    },
+    {
+      "title": "Oncolytic immunotherapy with nivolumab in muscle-invasive bladder cancer: a phase 1b trial",
+      "pubmed_id": "39521884",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Li R, Villa NY, Yu X, Johnson JO, Borjas G, Dhillon J, Moran-Segura CM, Kim Y, Francis N, Dorman D, Powers JJ, Sexton WJ, Spiess PE, Poch MA, Zemp L, Gilbert SM, Zhang J, Pow-Sang JM, Anderson ARA, Li T, Wang X, Grass GD, Burke JM, Dinney CPN, Rodriguez PC, Jain RK, Mul\u00e9 JJ, Conejo-Garcia JR",
+      "journal": "Nat Med"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Bile acids restrict functional reprogramming of myeloid-derived suppressor cells in tumor beds  \nAward Number: 5R01CA262121-02  \nSponsor: National Cancer Institute (NCI)  \nRodriguez, P. (PD/PI)",
+      "title": "Bile acids restrict functional reprogramming of myeloid-derived suppressor cells in tumor beds",
+      "award_number": "5R01CA262121-02",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Rodriguez, P.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Plant-derived extracts regulate immunosuppressive myelopoiesis in Breast cancer patients  \nAward Number: 3R01CA262121-02S1  \nSponsor: National Cancer Institute (NCI)  \nRodriguez, P. (PD/PI)",
+      "title": "Plant-derived extracts regulate immunosuppressive myelopoiesis in Breast cancer patients",
+      "award_number": "3R01CA262121-02S1",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Rodriguez, P.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Mitochondrial stress promotes immunosuppressive potential of myeloid subsets in tumors  \nAward Number: 1R01CA273034-01  \nSponsor: National Cancer Institute (NCI)  \nRodriguez, P. (PD/PI)",
+      "title": "Mitochondrial stress promotes immunosuppressive potential of myeloid subsets in tumors",
+      "award_number": "1R01CA273034-01",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Rodriguez, P.",
+          "role": "PD/PI"
+        }
+      ]
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/RodriguezPaulo_19146.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=19146"
+  },
+  "content_hash": "6fc7196f7d838aa2907c55db8e44d1572ae09bbea18099dff793bee615b8529e",
+  "researcher_name": "Paulo Rodriguez",
+  "department": "Immunology"
+}

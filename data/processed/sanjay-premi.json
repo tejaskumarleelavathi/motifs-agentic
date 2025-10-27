@@ -1,0 +1,184 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/sanjay-premi",
+  "last_updated": "2025-10-21T16:38:37.191827",
+  "researcher_id": "22108",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Tumor Microenvironment and Metastasis",
+  "research_program": "Molecular Medicine Program",
+  "overview": "Dr. Premi\u2019s research program focuses designing unique, therapeutic, and preventive approaches against skin cancers. We combine pure cancer biology with the next generation chemical approaches to identify novel targets and pathways responsible for progression and therapeutic resistance in melanoma.",
+  "research_interests": [
+    "Dr. Premi\u2019s lab focusses on designing novel, preventive and therapeutic strategies against skin cancers, including melanoma. Currently, there are three main interests of the lab. First is identifying novel therapeutic targets for melanoma and other skin cancers. We are interested in investigating the role of nitric oxide and its metabolites in de-sensitizing the melanomas to current therapeutic modalities. In particular, we focus on the role of nitrosylation and nitration, two posttranslational modifications induced by nitric oxide, in hyperactivating the RAS-MEK-ERK cascade, and also in deactivating antimelanoma immunity. We aim at identifying nitrosylation and nitration driven mechanisms of melanoma progression which will provide potential targets for novel therapeutic approaches against melanoma. Second major focus of the Premi lab is investigating the carcinogenicity of skin pigments. Contrary to their sun-protective role, we discovered that melanin-oxidation by nitric oxide synthase, produces carcinogenic, melanin-carbonyls (MCs). We are investigating the role of melanin-carbonyls in dysregulating melanocytic physiology and promoting melanoma progression and therapy resistance. Central goal of this research focus is to identify MC-mediated, non-classical regulation of melanoma progression and therapy resistance that could be used as a novel vulnerability against melanoma. The third major research focus of Premi lab is designing next generation, drug like sunscreen compounds. We design and screen novel plant based and synthetic compounds to identify the ones that are non-toxic, non-photosensitizers, potent anti-oxidants, and efficient in blocking incidental and delayed DNA damage induced by exposure to ultraviolet radiation (UV). To achieve this, we have designed several innovative, chemical, and cell-based methods which include measurement of triplet energies of carbonyls and other chemically excited species, DNA ELISA, interaction between DNA and melanin carbonyls, and effect of this interaction on gene expression. Ultimate goal is to design next generation skin-care products which are cosmetic as well as therapeutic. To achieve this, we are funded by NIH, DoD, and also by cosmetic and pharmaceutical industries.\n  *"
+  ],
+  "associations": [
+    "Tumor Microenvironment and Metastasis",
+    "Cutaneous Oncology",
+    "Molecular Medicine Program",
+    "Melanoma & Skin Cancer Center of Excellence"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "National Institute of Immunology, PhD"
+    },
+    {
+      "type": "Graduate",
+      "institution": "Jawaharial Nehru University, MS"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Melanin-Driven Delayed CPD Formation Is Independent of Melanin Biosynthesis Pathway",
+      "pubmed_id": "40992685",
+      "pmc_id": "PMC12507450",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Yadav VK, Srivastava J, Venkatachalam A, Tantak MP, Lawrence NJ, Fisher DE, Lawrence HR, Premi S",
+      "journal": "J Invest Dermatol"
+    },
+    {
+      "title": "Blocking Nitrosylation Induces Immunogenic Cell Death by Sensitizing NRAS-Mutant Melanoma to MEK Inhibitors",
+      "pubmed_id": "40287947",
+      "pmc_id": "PMC12167936",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Srivastava J, Yadav VK, Jimenez RV, Phadatare PR, Inamdar NA, Young MM, Bacchiocchi A, Halaban R, Fang B, Pulido AM, Tsai KY, Smalley KSM, Koomen JM, Rodriguez PC, Premi S",
+      "journal": "Cancer Res"
+    },
+    {
+      "title": "Targeting S-Nitrosylation to Overcome Therapeutic Resistance in NRAS-Driven Melanoma",
+      "pubmed_id": "40563669",
+      "pmc_id": "PMC12191001",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Srivastava J, Premi S",
+      "journal": "Cancers (Basel)"
+    },
+    {
+      "title": "The Role of Acetyl Zingerone and Its Derivatives in Inhibiting UV-Induced, Incident, and Delayed Cyclobutane Pyrimidine Dimers",
+      "pubmed_id": "36829837",
+      "pmc_id": "PMC9952391",
+      "year": "2023",
+      "publication_date": "2023 Jan",
+      "authors": "Srivastava J, Young MM, Yadav VK, Phadatare PR, Meyer TA, Chaudhuri RK, Premi S",
+      "journal": "Antioxidants (Basel)"
+    },
+    {
+      "title": "Biological Schiff bases may generate reactive triplet carbonyls and singlet oxygen: A model study",
+      "pubmed_id": "36049617",
+      "year": "2022",
+      "publication_date": "2022 Oct",
+      "authors": "Ramos LD, Gomes TMV, Quintiliano SAP, Premi S, Stevani CV, Bechara EJH",
+      "journal": "Free Radical Bio Med"
+    },
+    {
+      "title": "Perspectives on Cyclobutane Pyrimidine Dimers-Rise of the Dark Dimers",
+      "pubmed_id": "34706095",
+      "year": "2022",
+      "publication_date": "2022 May",
+      "authors": "Lawrence KP, Delinasios GJ, Premi S, Young AR, Cooke MS",
+      "journal": "Photochem Photobiol"
+    },
+    {
+      "title": "Editorial: Mechanisms of resistance to the targeted therapy and immunotherapy in cutaneous melanoma",
+      "pubmed_id": "36110949",
+      "pmc_id": "PMC9469656",
+      "year": "2022",
+      "publication_date": "2022 Aug",
+      "authors": "Premi S, Qin Y, Ahmad N",
+      "journal": "Front Oncol"
+    },
+    {
+      "title": "Genome-wide mapping of genomic DNA damage: methods and implications",
+      "pubmed_id": "34463773",
+      "pmc_id": "PMC8558167",
+      "year": "2021",
+      "publication_date": "2021 Nov",
+      "authors": "Amente S, Scala G, Majello B, Azmoun S, Tempest HG, Premi S, Cooke MS",
+      "journal": "Cell Mol Life Sci"
+    },
+    {
+      "title": "Acetyl zingerone: An efficacious multifunctional ingredient for continued protection against ongoing DNA damage in melanocytes after sun exposure ends",
+      "pubmed_id": "31538664",
+      "pmc_id": "PMC7004018",
+      "year": "2020",
+      "publication_date": "2020 Feb",
+      "authors": "Chaudhuri RK, Meyer T, Premi S, Brash D",
+      "journal": "Int J Cosmet Sci"
+    },
+    {
+      "title": "Role of Melanin Chemiexcitation in Melanoma Progression and Drug Resistance",
+      "pubmed_id": "32850409",
+      "pmc_id": "PMC7425655",
+      "year": "2020",
+      "publication_date": "2020 Aug",
+      "authors": "Premi S",
+      "journal": "Front Oncol"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Investigate the Mechanisms Responsible for Inhibition of CPDs by AZ and Its Analogs  \nAward Number:   \nSponsor: SYNTHEON  \nPremi, S. (PD/PI)",
+      "title": "Investigate the Mechanisms Responsible for Inhibition of CPDs by AZ and Its Analogs",
+      "award_number": "",
+      "sponsor": "SYNTHEON",
+      "investigators": [
+        {
+          "name": "Premi, S.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: To assess the efficacy of Kenvue chemical compounds in inhibiting incident and delayed cyclobutane pyrimidine dimers (CPDs)  \nAward Number: 23-0185  \nSponsor: KENVUE BRANDS LLC  \nPremi, S. (PD/PI), Srivastava, J. (Co-PD/PI)",
+      "title": "To assess the efficacy of Kenvue chemical compounds in inhibiting incident and delayed cyclobutane pyrimidine dimers (CPDs)",
+      "award_number": "23-0185",
+      "sponsor": "KENVUE BRANDS LLC",
+      "investigators": [
+        {
+          "name": "Premi, S.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Srivastava, J.",
+          "role": "Co-PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Novel role of melanin-carbonyls in progression of NRAS mutant melanoma  \nAward Number: 1R21ES035196-01  \nSponsor: National Institutes of Health (NIH)  \nPremi, S. (PD/PI)",
+      "title": "Novel role of melanin-carbonyls in progression of NRAS mutant melanoma",
+      "award_number": "1R21ES035196-01",
+      "sponsor": "National Institutes of Health (NIH)",
+      "source": "NIH",
+      "investigators": [
+        {
+          "name": "Premi, S.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Characterization of Plant-Based Phenolic Alkanones as Next-Generation Sun Protectants for Skin Cancer Prevention  \nAward Number: HT94252410751 Log # ME230101  \nSponsor: Department of Defense (DOD)  \nPremi, S. (PD/PI)",
+      "title": "Characterization of Plant-Based Phenolic Alkanones as Next-Generation Sun Protectants for Skin Cancer Prevention",
+      "award_number": "HT94252410751 Log # ME230101",
+      "sponsor": "Department of Defense (DOD)",
+      "source": "DOD",
+      "investigators": [
+        {
+          "name": "Premi, S.",
+          "role": "PD/PI"
+        }
+      ]
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/PremiSanjay_22108.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=22108"
+  },
+  "content_hash": "d052839e68cb1f7625fb099242108db6ba51f28472904da26f955fe16da8ee59",
+  "researcher_name": "Sanjay Premi",
+  "department": "Tumor Microenvironment and Metastasis"
+}

@@ -1,0 +1,196 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/mingxiang-teng",
+  "last_updated": "2025-10-21T16:33:11.060632",
+  "researcher_id": "22424",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "Biostatistics and Bioinformatics",
+  "research_program": "Cancer Biology & Evolution Program",
+  "overview": "Dr. Teng\u2019s research focuses on data science questions in decoding cancer epigenomic mechanisms. Epigenomics complement genomics studies in understanding cancer oncogenesis and provide new insights in cancer treatment. His data science researches, in conjunction with wet-lab collaborations, generate novel approaches to process, integrate and interpret epigenomic data toward cancer discovery.",
+  "research_interests": [
+    "Dr. Teng\u2019s research areas include: 1) Integrative approaches in decoding enhancer functions in cancers; 2) Computational modeling of viral-tumorigenesis and immune responses in DNA virus-related cancers; 3) Machine learning in identifying clonal hematopoiesis biomarkers in solid tumors. \n  *"
+  ],
+  "associations": [
+    "Biostatistics and Bioinformatics",
+    "Cancer Biology & Evolution Program",
+    "Melanoma & Skin Cancer Center of Excellence"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Harbin Institute of Technology, M.Eng"
+    },
+    {
+      "type": "Graduate",
+      "institution": "Harbin Institute of Technology, Ph.D."
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Dana-Farber Cancer Institute",
+      "specialty": "Biostatistics/Computational Biology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "An Autochthonous Model of Lung Cancer Identifies Requirements for Cellular Transformation in the Naked Mole-Rat",
+      "pubmed_id": "40920097",
+      "pmc_id": "PMC12486303",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Shepard A, Lester DK, Troutman S, Hoxha S, Khaled WT, Smith ESJ, Park TJ, Buffenstein R, Du D, Teng M, Dengler-Crish CM, Tsai KY, Flores ER, Ventura A, Kissil JL",
+      "journal": "Cancer Discov"
+    },
+    {
+      "title": "Clonal Hematopoiesis Dynamics and Evolutionary Fitness During Cancer Treatment Impact Clinical Outcomes",
+      "pubmed_id": "40950448",
+      "pmc_id": "PMC12424905",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Arabzadeh M, Tang YH, Colin-Leitzinger C, Marzban S, Walgenbach D, Morganti S, Mahaganapathy V, Harper E, Teng M, Kresovich JK, Washington I, Parsons HA, Garber JE, West J, Ganesan S, Khiabanian H, Gillis N",
+      "journal": "medRxiv"
+    },
+    {
+      "title": "Epstein-Barr virus exploits desmocollin 2 as the principal epithelial cell entry receptor",
+      "pubmed_id": "41006833",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Wang H, Mou Z, Yeo YY, Ge Q, Liu X, Narita Y, Li Z, Wang C, Li W, Zhao KR, Li J, Bu W, Gewurz B, Cohen JI, Teng M, Dai X, Liu X, Jiang S, Zhao B",
+      "journal": "Nat Microbiol"
+    },
+    {
+      "title": "qcCHIP: an R package to identify clonal hematopoiesis variants using cohort-specific data characteristics",
+      "pubmed_id": "40973027",
+      "pmc_id": "PMC12466928",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Liu X, Tang YH, Blachly J, Edge S, Jakubek YA, McCarter M, Naqash AR, Nepple KG, Osman A, Reilley MJ, Riedlinger G, Salhia B, Schneider BP, Shriver C, Churchman ML, Rounbehler RJ, Teer JK, Gillis N, Teng M",
+      "journal": "Bioinformatics"
+    },
+    {
+      "title": "PROTAC-Mediated Degradation of TAF1 Induces Apoptosis in AML Cells and Inhibits Tumor Growth In Vivo",
+      "pubmed_id": "40376796",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Chen L, Shultz ZP, Sansone M, Fang B, Liu X, Teng M, Schonbrunn E, Lopchuk JM, Chen J",
+      "journal": "Mol Cancer Ther"
+    },
+    {
+      "title": "Peripheral blood somatic mosaicism and clonal hematopoiesis across ancestry backgrounds",
+      "pubmed_id": "40166537",
+      "pmc_id": "PMC11957158",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Colin-Leitzinger C, Tang YH, Teng M, Gillis N",
+      "journal": "medRxiv"
+    },
+    {
+      "title": "Viral oncogene EBNALP regulates YY1 DNA binding and alters host 3D genome organization",
+      "pubmed_id": "39747661",
+      "pmc_id": "PMC11811279",
+      "year": "2025",
+      "publication_date": "2025 Feb",
+      "authors": "Wang C, Leong MM, Ding W, Narita Y, Liu X, Wang H, Yiu SPT, Lee J, Zhao KRS, Cui A, Gewurz B, Hammerschmidt W, Teng M, Zhao B",
+      "journal": "EMBO Rep"
+    },
+    {
+      "title": "ShinyEvents: harmonizing longitudinal data for real world survival estimation",
+      "pubmed_id": "40799741",
+      "pmc_id": "PMC12340904",
+      "year": "2025",
+      "publication_date": "2025 Aug",
+      "authors": "Obermayer A, Davis J, Talada DP, Teng M, Eschrich S, Yin V, Spakowicz D, Dhrubo D, Rounbehler RJ, Churchman ML, Tarhini AA, Wang X, Gupta S, Markowitz J, Goecks J, Li R, Rodriguez-Pessoa R, Manley BJ, Tan AC, Grass GD, Chen DT, Shaw TI",
+      "journal": "Res Sq"
+    },
+    {
+      "title": "Epigenetic Plasticity Drives Carcinogenesis and Multi-Therapy Resistance in Multiple Myeloma",
+      "pubmed_id": "40321765",
+      "pmc_id": "PMC12048002",
+      "year": "2025",
+      "publication_date": "2025 Apr",
+      "authors": "Renatino Canevarolo R, Sudalagunta PR, Meads MB, Silva M, Zhao X, Magaletti D, Alugubelli RR, DeAvila G, Persi E, Maura F, Bell ET, Bishop RT, Cubitt CL, Sansil SS, Zhang W, Teer JK, Teng M, Yoder SJ, Siegel EM, Shah BD, Nishihori T, Hazlehurst LA, Lynch CC, Landgren O, Hampton O, Gatenby RA, Sullivan DM, Brayer JB, Dalton WS, Cleveland JL, Alsina M, Baz R, Shain KH, Silva AS",
+      "journal": "Res Sq"
+    },
+    {
+      "title": "Clonal Hematopoiesis in Patients With Human Immunodeficiency Virus and Cancer",
+      "pubmed_id": "38657098",
+      "year": "2024",
+      "publication_date": "2024 Sep",
+      "authors": "Gillis N, Dickey BL, Colin-Leitzinger C, Tang YH, Putney RM, Mesa TE, Yoder SJ, Suneja G, Spivak AM, Patel AB, Extermann M, Giuliano AR, Teng M, Kresovich J, Berglund A, Coghill AE",
+      "journal": "J Infect Dis"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Cdk13 function in heart development and congenital heart disease  \nAward Number: 1R01HL177546-01A1  \nSponsor: National Institutes of Health (NIH)  \nTeng, M. (PD/PI)",
+      "title": "Cdk13 function in heart development and congenital heart disease",
+      "award_number": "1R01HL177546-01A1",
+      "sponsor": "National Institutes of Health (NIH)",
+      "source": "NIH",
+      "investigators": [
+        {
+          "name": "Teng, M.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Epstein-Barr virus LMP1 mediated oncogenicity  \nAward Number: 2R01CA228700-06A1  \nSponsor: National Cancer Institute (NCI)  \nTeng, M. (PD/PI)",
+      "title": "Epstein-Barr virus LMP1 mediated oncogenicity",
+      "award_number": "2R01CA228700-06A1",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Teng, M.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Integrative Analysis to Identify Genomic Biomarkers in HPV Positive Oral Cancer  \nAward Number: 5R03DE030580-02  \nSponsor: National Institutes of Health (NIH)  \nTeng, M. (PD/PI)",
+      "title": "Integrative Analysis to Identify Genomic Biomarkers in HPV Positive Oral Cancer",
+      "award_number": "5R03DE030580-02",
+      "sponsor": "National Institutes of Health (NIH)",
+      "source": "NIH",
+      "investigators": [
+        {
+          "name": "Teng, M.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Dissecting Enhancer Function Through Integrative Genomics  \nAward Number: 1R35GM155298-01  \nSponsor: National Institute of General Medical Sciences (NIGMS)  \nTeng, M. (PD/PI)",
+      "title": "Dissecting Enhancer Function Through Integrative Genomics",
+      "award_number": "1R35GM155298-01",
+      "sponsor": "National Institute of General Medical Sciences (NIGMS)",
+      "investigators": [
+        {
+          "name": "Teng, M.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Epstein-Barr Virus Driven Tonsillar Versus Peripheral B-cell One-Carbon Metabolic Network Remodeling  \nAward Number: 1R01DE033907-01  \nSponsor: National Institute of Dental and Craniofacial Research (NIDCR)  \nTeng, M. (PD/PI)",
+      "title": "Epstein-Barr Virus Driven Tonsillar Versus Peripheral B-cell One-Carbon Metabolic Network Remodeling",
+      "award_number": "1R01DE033907-01",
+      "sponsor": "National Institute of Dental and Craniofacial Research (NIDCR)",
+      "investigators": [
+        {
+          "name": "Teng, M.",
+          "role": "PD/PI"
+        }
+      ]
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/TengMingxiang_22424.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=22424"
+  },
+  "content_hash": "29d6fa9b18274c30fa06676a316c6ab4f436aea98b87ac52e54e3944ace6abe3",
+  "researcher_name": "Mingxiang Teng",
+  "department": "Biostatistics and Bioinformatics"
+}

@@ -1,0 +1,143 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/aliya-qayyum",
+  "last_updated": "2025-10-21T16:38:02.387900",
+  "researcher_id": "28587",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "Diagnostic Imaging and Interventional Radiology",
+  "research_program": "Molecular Medicine Program",
+  "overview": "Research interest focuses on the investigation of imaging tools for the evaluation of biophysical properties of cancer and its environment in order to identify factors important in cancer immune resistance, aggressiveness and recurrence.",
+  "research_interests": [
+    "Recent research has primarily involved imaging features of primary and secondary liver cancer including detection of early response of hepatocellular carcinoma to immunotherapy using MRI; investigation of CT feature association with molecular characteristics and tumor mutations in intra-hepatic cholangiocarcinoma and colorectal liver metastases. \n  *"
+  ],
+  "associations": [
+    "Diagnostic Imaging and Interventional Radiology",
+    "Machine Learning",
+    "Molecular Medicine Program"
+  ],
+  "education": [
+    {
+      "type": "Medical School",
+      "institution": "Imperial College School of Medicine and Technology"
+    },
+    {
+      "type": "Internship",
+      "institution": "Charing Cross Hospital"
+    },
+    {
+      "type": "Residency",
+      "institution": "The Middlesex Hospital",
+      "position": "Intern",
+      "specialty": "al Medicine"
+    },
+    {
+      "type": "Residency",
+      "institution": "St. Georges Hospital",
+      "specialty": "Diagnostic Radiology"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Stanford University Hospital",
+      "specialty": "Radiology"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of California San Francisco",
+      "specialty": ""
+    }
+  ],
+  "publications": [
+    {
+      "title": "Whole-body magnetic resonance imaging for staging patients with high-risk prostate cancer",
+      "pubmed_id": "39289537",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Fang AM, Chapin BF, Shi CW, Sun J, Qayyum A, Kundra V, Corn PG, Kuban DA, Ravizzini GC, Surasi DSS, Ma J, Bathala TK",
+      "journal": "Prostate Cancer P D"
+    },
+    {
+      "title": "Intrahepatic cholangiocarcinoma: role of imaging as a critical component for multi-disciplinary treatment approach",
+      "pubmed_id": "40095023",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Childers BG, Denbo JW, Kim RD, Hoffe SE, Glushko T, Qayyum A, Anaya DA",
+      "journal": "Abdom Radiol (NY)"
+    },
+    {
+      "title": "Standardized reporting of extrahepatic cholangiocarcinoma",
+      "pubmed_id": "40944876",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "El Homsi M, Hassan OT, O'Brien C, Singh C, Arif-Tiwari H, Becker-Weidman DJ, Karolyi D, Bonde A, Venkatesh SK, Brunsing RL, Cunha GM, Miller FH, Costello J, Qayyum A, Marks RM",
+      "journal": "Abdom Radiol (NY)"
+    },
+    {
+      "title": "Correction: Park et al",
+      "pubmed_id": "40149388",
+      "pmc_id": "PMC11941415",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Park MA, Whelan CJ, Ahmed S, Boeringer T, Brown J, Carson TL, Crowder SL, Gage K, Gregg C, Jeong DK, Jim HSL, Judge AR, Mason TM, Parker N, Pillai S, Qayyum A, Rajasekhara S, Rasool G, Tinsley SM, Schabath MB, Stewart P, West J, McDonald P, Permuth JB",
+      "journal": "Defining and Addressing Research Priorities in Cancer Cachexia through Transdisciplinary Collaboration"
+    },
+    {
+      "title": "Molecular signatures of intrahepatic cholangiocarcinoma: role in targeted therapy selection",
+      "pubmed_id": "40222184",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Glushko T, Costello J, Chima R, McGettigan M, Kim R, Jeong D, Qayyum A",
+      "journal": "Eur J Radiol"
+    },
+    {
+      "title": "Beyond cholangiocarcinoma: imaging features of mimicking pathologies in the biliary tract",
+      "pubmed_id": "39710762",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Khasawneh H, O'Brien C, Czeyda-Pommersheim F, Qayyum A, Miller FH, Arif Tiwari H, Paspulati RM, Kierans AS",
+      "journal": "Abdom Radiol (NY)"
+    },
+    {
+      "title": "Standardizing the reporting of cholangiocarcinoma: the society of abdominal radiology disease focused panel on cholangiocarinoma lexicon",
+      "pubmed_id": "39775025",
+      "pmc_id": "PMC12181104",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "M Marks R, Arif H, Antonietta Bali M, L Brunsing R, M Cunha G, Khasawneh H, El Homsi M, Singh C, Paspulati R, Kierans A, Qayyum A",
+      "journal": "Abdom Radiol (NY)"
+    },
+    {
+      "title": "Imaging cholangiocarcinoma: CT and MRI techniques",
+      "pubmed_id": "38916614",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Kierans AS, Costello J, Qayyum A, Taouli B, Venkatesh SK, Yoon JH, Bali MA, Bolan CW, Lee JM, Marks RM, El Homsi M, Miller FH",
+      "journal": "Abdom Radiol (NY)"
+    },
+    {
+      "title": "Standardized reporting of intrahepatic cholangiocarcinoma",
+      "pubmed_id": "39373770",
+      "year": "2025",
+      "publication_date": "2025 Apr",
+      "authors": "Kierans AS, Cunha GM, King MJ, Marks RM, Miller FH, Lee JM, Qayyum A",
+      "journal": "Abdom Radiol (NY)"
+    },
+    {
+      "title": "Tissue and imaging biomarkers of response to neoadjuvant nivolumab or nivolumab plus ipilimumab in patients with resectable hepatocellular carcinoma",
+      "pubmed_id": "39427654",
+      "year": "2024",
+      "publication_date": "2024 Oct",
+      "authors": "LaPelusa M, Chamseddine S, Tran Cao HS, Xiao L, Hasanov E, Bhosale P, Amin HM, Mohamed YI, Gok Yavuz B, Sakr Y, Xu L, Hu I, Lee SS, Sakamuri D, Jindal S, Nguyen V, Curran MA, Sun R, Rashid A, Duda DG, Sharma P, Qayyum A, Kaseb AO",
+      "journal": "Oncology-Basel"
+    }
+  ],
+  "grants": [],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers/QayyumAliya_28587.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=28587"
+  },
+  "content_hash": "43548ef300ac83f4373ef2c7da5e46d94bf28fe1a462f8507ee056e2312223b7",
+  "researcher_name": "Aliya Qayyum",
+  "department": "Machine Learning"
+}

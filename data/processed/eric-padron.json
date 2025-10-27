@@ -1,0 +1,221 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/eric-padron",
+  "last_updated": "2025-10-21T16:37:39.339603",
+  "researcher_id": "7709",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "Malignant Hematology",
+  "research_program": "Molecular Medicine Program",
+  "overview": "The Padron Lab explores how to combat leukemia by investigating different drugs available for treatment, novel combinations of available drugs, or researching the non-coding genome. Investigating the non-coding part of the human genome is important. Another area of the Padron Lab is looking at what happens to patients before they get leukemia to identify any genetic risk factors. One of these Padron is investigating is an entity called clonal hematopoiesis. Clonal hematopoiesis puts older individuals at much higher risk of getting leukemia, but also puts them at higher risk for cardiovascular disease.",
+  "research_interests": [
+    "Chronic myelomonocytic leukemia (CMML) is a rare hematopoeitic malignancy characterized by dysplasia, cytopenias, a propensity to transform to Acute Myeloid Leukemia (AML) and a characteristic monocytosis that defines this entity. In the past, CMML was grouped together with the Myelodysplasitc Syndromes (MDS) but its clinical and genetic behavior is now known to be distinctly different from MDS. As a result, this disease is now grouped in a separate MDS/MPN category by WHO. Our research interests focus on understanding the molecular and genetic pathway of chronic myelomonocytic leukemia to better design targeted agents for study in the clinic. Our previous efforts have identified the GM-CSF signaling cascade as a target for CMML therapeutics and current efforts are underway to test this in the clinic. Future work will focus on uncovering new targets for CMML specific therapies. Dr. Padron has developed an interest in working with existing pharmaceutical compounds to evaluate their effectiveness for bone marrow failure disorders. Other work Dr. Padron is pursuing involves the SRSF2 mutation that can occur in MDS and may be related to progression to other diseases. The research underway examines the ability of an existing compound in development to destroy leukemic cells through targeting the cell's RNA. Positive results from these studies would be a benefit to patients in reducing the symptoms of bone marrow failure diseases, in particular the constitutional symptoms that can distress patients, including enlarged spleen, weight loss and fevers.\n  *"
+  ],
+  "associations": [
+    "Malignant Hematology",
+    "Immunology",
+    "Molecular Medicine Program",
+    "Center of Excellence for Evolutionary Therapy"
+  ],
+  "education": [
+    {
+      "type": "Medical School",
+      "institution": "University of South Florida",
+      "degree": "MD"
+    },
+    {
+      "type": "Residency",
+      "institution": "University of Florida Shands Hospital",
+      "specialty": ""
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Moffitt Cancer Center",
+      "specialty": "Hematology/Oncology"
+    },
+    {
+      "type": "Board Certification",
+      "institution": "Internal Medicine",
+      "certification": "Medical Oncology"
+    },
+    {
+      "type": "Board Certification",
+      "institution": "Internal Medicine",
+      "certification": "Hematology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Characterization of Indolent Chronic Myelomonocytic Leukemia Phenotypes and Dynamic Features of Disease Progression",
+      "pubmed_id": "40254502",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Aguirre LE, Ball S, Jain A, Ali NA, Sallman DA, Kuykendall A, Sweet K, Lancet JE, Padron E, Komrokji RS",
+      "journal": "Clin Lymphoma Myeloma Leuk"
+    },
+    {
+      "title": "Transfusion Independence Corresponds With Survival in Patients With Lower-Risk Myelodysplastic Syndrome: Real-World Evidence From United States Insurance Claims",
+      "pubmed_id": "40410022",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Komrokji RS, Supina D, Navada S, Potluri R, Tyagi R, Werwath T, Xie Z, Padron E, Sallman DA",
+      "journal": "Clin Lymphoma Myeloma Leuk"
+    },
+    {
+      "title": "The Role of Inflammation in CMML Pathobiology and Progression",
+      "pubmed_id": "41062769",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Neupane N, Padron E",
+      "journal": "Curr Hematol Malig Rep"
+    },
+    {
+      "title": "Hypomethylating Agent and Venetoclax Combination Is a Safe and Effective Alternative to Intensive Chemotherapy in Older (\u2265 70 Years) Patients With Newly Diagnosed Favorable Risk Acute Myeloid Leukemia",
+      "pubmed_id": "40772639",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Ball S, Jain AG, Al Ali N, Aguirre LE, Bewersdorf JP, Kent A, Rose A, Hayden A, Siddon A, Lykon J, Madarang E, Swoboda DM, Padron E, Sweet K, Sallman DA, Lancet J, Carraway HE, Watts J, Zeidan A, Pollyea DA, Komrokji RS",
+      "journal": "Am J Hematol"
+    },
+    {
+      "title": "Clinical correlation and prognostic impact of cytogenetic clone size for myelodysplastic syndromes/neoplasm",
+      "pubmed_id": "40453136",
+      "pmc_id": "PMC12067887",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Xie Z, Al Ali N, Zhang L, Papenhausen P, Volpe VO, Chan O, Kuykendall A, Yun S, Walker A, Sweet K, Lancet JE, Padron E, Sallman DA, Komrokji RS",
+      "journal": "Blood Neoplasia"
+    },
+    {
+      "title": "Role of allo-HCT in \"nonclassical\" MPNs and MDS/MPNs: recommendations from the PH&G Committee and the CMWP of the EBMT",
+      "pubmed_id": "40106773",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Polverelli N, Hernandez-Boluda JC, Onida F, Gurnari C, Raj K, Czerw T, Kenyon M, Robin M, Sockel K, Ruggeri A, S\u00e1nchez-Ortega I, Arber DA, Arcaini L, Duarte FB, Battipaglia G, Chalandon Y, Ciceri F, Cross NCP, Drozd-Sokolowska J, Funke VAM, Gagelmann N, Gangat N, Gotlib J, Guglielmelli P, Harrison CN, Hobbs GS, Jain T, Khoury JD, Kiladjian JJ, Kr\u00f6ger N, Malcovati L, Martino M, Mesa R, Orazi A, Padron E, Palandri F, Passamonti F, Patnaik MM, Pemmaraju N, Radia DH, Reiter A, Russo D, Scheid C, Tefferi A, Vannucchi AM, Wiseman DH, Yakoub-Agha I, McLornan DP",
+      "journal": "Blood"
+    },
+    {
+      "title": "Serum hypoalbuminemia is an independent prognostic factor in Chronic Myelomonocytic Leukemia (CMML)",
+      "pubmed_id": "39921921",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Komrokji Z, Ali NA, Xie Z, Chan O, Yun S, Walker A, Lancet J, Kuykendall A, Sallman D, Padron E, Komrokji RS",
+      "journal": "Leuk Res"
+    },
+    {
+      "title": "Reducing clinical trial eligibility barriers for patients with MDS: an icMDS position statement",
+      "pubmed_id": "40146152",
+      "pmc_id": "PMC11969261",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Borate U, Pugh K, Waller A, Welkie RL, Huang Y, Bewersdorf JP, Stahl M, DeZern AE, Platzbecker U, Sekeres MA, Wei AH, Buckstein RJ, Roboz GJ, Savona MR, Loghavi S, Hasserjian RP, Fenaux P, Sallman DA, Hourigan CS, Della Porta MG, Nimer S, Little RF, Santini V, Efficace F, Taylor J, Garcia-Manero G, Odenike O, Kim TK, Halene S, Komrokji RS, Griffiths EA, Greenberg PL, Xu ML, Xie Z, Bejar R, Sanz GF, Patnaik MM, Figueroa M, Carraway HE, Abdel-Wahab O, Starczynowski D, Padron E, Boultwood J, Gore S, Daver NG, Churpek JE, Majeti R, Bennett JM, List AF, Brunner AM, Zeidan AM",
+      "journal": "Blood"
+    },
+    {
+      "title": "Characteristics and survival outcomes of patients with myelodysplastic syndromes with isolated 11q deletion",
+      "pubmed_id": "39938357",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Takaoka K, Komrokji R, Chien K, Montalban-Bravo G, Salman JB, Urrutia S, Bataller A, Bazinet A, Kekedjian J, Al Ali NH, Sallman D, Padron E, Xie Z, Kanagal-Shamanna R, Tang G, Yang H, Rodriguez-Sevilla JJ, Garcia-Manero G, Sasaki K",
+      "journal": "Leuk Res"
+    },
+    {
+      "title": "Long-term follow-up and combined Phase 2 results of eprenetapopt and azacitidine in patients with TP53 mutant MDS/AML",
+      "pubmed_id": "40657305",
+      "pmc_id": "PMC12255903",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Sallman DA, Komrokji RS, Dezern AE, Sebert M, Garcia-Manero G, Rahm\u00e9 R, Winer ES, Lehmann-Che J, Roboz GJ, Madelaine I, Sekeres MA, Peterlin P, Chan O, Beyne-Rauzy O, Kuykendall A, Recher C, McLemore A, Stamatoullas A, Zhang L, Willems L, Mo Q, Raffoux E, Nardelli L, Berthon C, Al Ali NH, Quesnel B, Padron E, Kantarjian HM, List AF, Ades L, Lancet JE, Fenaux P, Cluzeau T",
+      "journal": "Hemasphere"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Advancing the Therapeutic Landscape for Chronic Myelomonocytic Leukemia (CMML)  \nAward Number:   \nSponsor: Blood Cancer United  \nPadron, E. (PD/PI)",
+      "title": "Advancing the Therapeutic Landscape for Chronic Myelomonocytic Leukemia (CMML)",
+      "award_number": "",
+      "sponsor": "Blood Cancer United",
+      "investigators": [
+        {
+          "name": "Padron, E.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: CLL-1 CAR-T cells and trametinib for the treatment of Ras-mutated CMML and JMML  \nAward Number: 8047-24  \nSponsor: Blood Cancer United  \nPadron, E. (PD/PI)",
+      "title": "CLL-1 CAR-T cells and trametinib for the treatment of Ras-mutated CMML and JMML",
+      "award_number": "8047-24",
+      "sponsor": "Blood Cancer United",
+      "investigators": [
+        {
+          "name": "Padron, E.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Developing and Credentialing Patient-derived Xenograft Models to Advance Therapeutic Approaches for Chronic Myelomonocytic Leukemia  \nAward Number: 5R37CA234021  \nSponsor: National Cancer Institute (NCI)  \nPadron, E. (PD/PI)",
+      "title": "Developing and Credentialing Patient-derived Xenograft Models to Advance Therapeutic Approaches for Chronic Myelomonocytic Leukemia",
+      "award_number": "5R37CA234021",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Padron, E.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: The impact of inflammation on HSPC composition and disease progression in chronic myelomonocytic leukemia.  \nAward Number: 1R01CA278300-03  \nSponsor: National Cancer Institute (NCI)  \nPadron, E. (PD/PI)",
+      "title": "The impact of inflammation on HSPC composition and disease progression in chronic myelomonocytic leukemia.",
+      "award_number": "1R01CA278300-03",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Padron, E.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Developing and credentialing patient-derived xenograft models to advance therapeutic approaches for chronic myelomonocytic leukemia  \nAward Number: 4R37CA234021-07  \nSponsor: National Cancer Institute (NCI)  \nPadron, E. (PD/PI)",
+      "title": "Developing and credentialing patient-derived xenograft models to advance therapeutic approaches for chronic myelomonocytic leukemia",
+      "award_number": "4R37CA234021-07",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Padron, E.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: The National Myelodysplastic Syndromes Natural History Study (The National MDS Study)  \nAward Number: HHSN2682014000031/P00008  \nSponsor: National Heart, Lung, and Blood Institute (NHLBI)  \nJohnson, N. (PD/PI), Padron, E. (PD/PI)",
+      "title": "The National Myelodysplastic Syndromes Natural History Study (The National MDS Study)",
+      "award_number": "HHSN2682014000031/P00008",
+      "sponsor": "National Heart, Lung, and Blood Institute (NHLBI)",
+      "investigators": [
+        {
+          "name": "Johnson, N.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Padron, E.",
+          "role": "PD/PI"
+        }
+      ]
+    }
+  ],
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/PadronEric_7709.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=7709"
+  },
+  "content_hash": "ee5cf4a429b955be849361cc084dacf1f01f64a0c8d66828044ea41929e2a829",
+  "researcher_name": "Eric Padron",
+  "department": "Immunology"
+}
